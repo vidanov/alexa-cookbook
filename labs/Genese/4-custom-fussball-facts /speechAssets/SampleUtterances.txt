@@ -1,0 +1,3 @@
+GetNewFactIntent einen Fakt
+GetNewFactIntent erzähle mir einen Fakt
+GetNewFactIntent gebe mir einen Fakt
